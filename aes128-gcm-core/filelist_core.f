@@ -1,0 +1,12 @@
+aes128-gcm-core/aes_pkg.sv
+aes128-gcm-core/aes_sbox.sv
+aes128-gcm-core/aes_subbytes.sv
+aes128-gcm-core/aes_shiftrows.sv
+aes128-gcm-core/aes_mixcolumns.sv
+aes128-gcm-core/aes_addroundkey.sv
+aes128-gcm-core/aes_round.sv
+aes128-gcm-core/aes128_core.sv
+aes128-gcm-core/gf128_mult_8bit_seq.sv
+aes128-gcm-core/ghash_engine_seq.sv
+aes128-gcm-core/aes128_gcm_packet_top.sv
+aes128-gcm-core/aes128_gcm_duplex_packet_top.sv

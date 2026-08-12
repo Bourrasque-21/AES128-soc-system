@@ -1,0 +1,10 @@
+rtl/aes_pkg.sv
+rtl/aes_sbox_bram_sync.sv
+rtl/aes_shiftrows.sv
+rtl/aes_mixcolumns.sv
+rtl/gf128_mult_8bit_seq.sv
+rtl/ghash_engine_seq.sv
+rtl/aes128_full_pipeline_bram_core.sv
+rtl/aes128_gcm_pipeline_context.sv
+rtl/aes128_gcm_shared_pipeline_top.sv
+tb/tb_aes128_gcm_shared_pipeline_top.sv
